@@ -1,0 +1,628 @@
+{
+ "version": "1.0.1",
+ "minecraft": "1.21.1",
+ "loader": "neoforge",
+ "base_url": "",
+ "recommended_ram_mb": 6144,
+ "keep_existing": [
+  "options.txt",
+  "config/*client*"
+ ],
+ "strict_dirs": [
+  "mods"
+ ],
+ "changelog": "",
+ "files": [
+  {
+   "path": "mods/AdvancementPlaques-1.21.1-neoforge-1.6.8.jar",
+   "sha1": "829d33e71b30e9158d772f5963bb6020f6026d78",
+   "size": 195730,
+   "url": "https://drive.google.com/uc?export=download&id=1D8cg8f3axWj7KBmQXZnClAA7ubtPZ1qp"
+  },
+  {
+   "path": "mods/aerocopycats-1.1.1.jar",
+   "sha1": "3a93862421d0a8cdae1e3a3d7f0d4bd01e049007",
+   "size": 14702,
+   "url": "https://drive.google.com/uc?export=download&id=1pIQtW1G7DM0EWi-W62KvBS9xcHQcGBVp"
+  },
+  {
+   "path": "mods/aeroencasedpipe-1.0.7.jar",
+   "sha1": "94012ef7cb564267caa91e29a63d48c32be0b341",
+   "size": 56483,
+   "url": "https://drive.google.com/uc?export=download&id=1QLFKvR7d-36xaFBnJGR-ZCfWebN0Azsr"
+  },
+  {
+   "path": "mods/animal_feeding_trough-1.1.2+1.21-neoforge.jar",
+   "sha1": "6c29bbeab4b2c174d9f66d6a3e9ef4e136705c5b",
+   "size": 229880,
+   "url": "https://drive.google.com/uc?export=download&id=1eTYKfuOBb6ENYiVzzPhg0cZVtKyhFzyC"
+  },
+  {
+   "path": "mods/appleskin-neoforge-mc1.21-3.0.9.jar",
+   "sha1": "81cf0e668f991f83ac8820c386fbd6c9c3602246",
+   "size": 75804,
+   "url": "https://drive.google.com/uc?export=download&id=1GhEHYoEfkhNQKxSl_9jMQF8hhTDuU-Hh"
+  },
+  {
+   "path": "mods/architectury-13.0.11-neoforge.jar",
+   "sha1": "008656a0702801174b8ec245ed7aad1921d6e9f1",
+   "size": 584734,
+   "url": "https://drive.google.com/uc?export=download&id=1OMHBbpeBQvPlGRgeleuOKw5yrp9gFT0a"
+  },
+  {
+   "path": "mods/astrocraft_lite-neoforge-1.21-1.2.jar",
+   "sha1": "3027bed27950fc69aba746d9ef79adddabc61cd1",
+   "size": 86316,
+   "url": "https://drive.google.com/uc?export=download&id=1nDq3p8edRpjQjxwVEXPG1PJDO4KhufSs"
+  },
+  {
+   "path": "mods/BadOptimizations-2.4.1-1.21.1.jar",
+   "sha1": "1461d8e46391efd32a3085150e86094c9f6f5c9d",
+   "size": 283566,
+   "url": "https://drive.google.com/uc?export=download&id=1Fe35oIzwYCLHj_9wI1IaTGdrjyRRnJij"
+  },
+  {
+   "path": "mods/badpackets-neo-0.8.2.jar",
+   "sha1": "6a29963a30afd7fa8993b97e4f870460b3f51323",
+   "size": 54641,
+   "url": "https://drive.google.com/uc?export=download&id=1tvGYmygo1a3x1Z8ivrR0d__P75F8IfIE"
+  },
+  {
+   "path": "mods/barehanded-neoforge-1.21.1-1.6.6.jar",
+   "sha1": "3d7d517f477cff7aec5a5dd88e9467f951da46a8",
+   "size": 499971,
+   "url": "https://drive.google.com/uc?export=download&id=1AeHGRzFrcmQKKDZg7wkOCnX2JDVjkHuq"
+  },
+  {
+   "path": "mods/bellsandwhistles-0.4.7-1.21.1.jar",
+   "sha1": "85944080f8bd47dad64a8193a70662cd9ddbb200",
+   "size": 193619,
+   "url": "https://drive.google.com/uc?export=download&id=1nloCfltlWoVu-Mtqr1rNi5kdhED6yxbk"
+  },
+  {
+   "path": "mods/better-clouds-1.13.11+1.21.1-neoforge.jar",
+   "sha1": "949fa76046ac2303c05f9fdcda782eb22e4d3683",
+   "size": 817079,
+   "url": "https://drive.google.com/uc?export=download&id=1C_QaTRm1vojPRtV7CPXaxqihrfMzkene"
+  },
+  {
+   "path": "mods/BetterF3-11.0.3-NeoForge-1.21.1.jar",
+   "sha1": "8fa17df26d3650416bc124be7a264bc1566a3b26",
+   "size": 481646,
+   "url": "https://drive.google.com/uc?export=download&id=1nA0avnvmKtzNFNtdOvOWhXhf2dTuo3PI"
+  },
+  {
+   "path": "mods/catalyst-0.17.0.jar",
+   "sha1": "f394dbf31c8f79d8cf0d4c1ab08c09b9d5ac671b",
+   "size": 34078,
+   "url": "https://drive.google.com/uc?export=download&id=1mj8QiZruOspSaguQMqDkFAMmWjwOB5lF"
+  },
+  {
+   "path": "mods/chat_heads-0.15.7-neoforge-1.21.jar",
+   "sha1": "536b2af675229d2a33eb4cf5afbe7148a62d5f3f",
+   "size": 91948,
+   "url": "https://drive.google.com/uc?export=download&id=1Ci5LJbuVd5rItA_PpsKYMx8RYi6aFRXf"
+  },
+  {
+   "path": "mods/chatanimation-neoforge-1.3.5+mc1.21.jar",
+   "sha1": "e647613d3818d4ff74eb7187ea1fe7a95db3b415",
+   "size": 1068711,
+   "url": "https://drive.google.com/uc?export=download&id=1Bg8LXFlCebAwUpfqWlimuHh1v6XNujUT"
+  },
+  {
+   "path": "mods/chloride-NEOFORGE-mc1.21.1-v1.8.1.jar",
+   "sha1": "50454011525e2862678b15d94484fd32a5a54dfb",
+   "size": 527889,
+   "url": "https://drive.google.com/uc?export=download&id=1haMImopSqKOo8qV9MoBtKQYbfbtMngQd"
+  },
+  {
+   "path": "mods/cloth-config-15.0.140-neoforge.jar",
+   "sha1": "c3e5733ba4503b102589a026000fd5ce0212f6f2",
+   "size": 1163890,
+   "url": "https://drive.google.com/uc?export=download&id=1In3RP40gCv82aAnmWmlI1sElx54p8Kh6"
+  },
+  {
+   "path": "mods/copycats-3.0.9+mc.1.21.1-neoforge.jar",
+   "sha1": "74de17876c43f5f780bac478b9f9eb11e687b8d7",
+   "size": 1799381,
+   "url": "https://drive.google.com/uc?export=download&id=1kGFvGJWLA20R2kvjLyuxJqP9P3gGYKZO"
+  },
+  {
+   "path": "mods/Create Encased-1.21.1-1.9.0-ht3.jar",
+   "sha1": "bc749c8ec3ad4fef7d5a052c904008971158f274",
+   "size": 3110804
+  },
+  {
+   "path": "mods/create-1.21.1-6.0.10.jar",
+   "sha1": "0e97e49837bed766e6f28a4c95b04885d6acc353",
+   "size": 19123767,
+   "url": "https://drive.google.com/uc?export=download&id=1Ey9cPR6xp8jiFX60l3H4Sx0U8w8Q8auf"
+  },
+  {
+   "path": "mods/create-aeronautics-bundled-1.21.1-1.3.2.jar",
+   "sha1": "ddbe9cbc25e8f663218aa1e9fdfc4b99f0e11e4b",
+   "size": 33123131,
+   "url": "https://drive.google.com/uc?export=download&id=1XBsLnKBnAeuta1iIhGQxFSjm4M4S7YvR"
+  },
+  {
+   "path": "mods/create-dyn-light-forge-1.21.1-2.0.1.jar",
+   "sha1": "38ca94bda8ddcb8d75152ad9d4108283316f81ac",
+   "size": 137500,
+   "url": "https://drive.google.com/uc?export=download&id=13mij6E0l995XISJJ1tZSCQsz0iCVpT26"
+  },
+  {
+   "path": "mods/create-enchantment-industry-2.5.4b.jar",
+   "sha1": "48be078caf6be2b3e43787418625618dc39b7ae1",
+   "size": 1607432,
+   "url": "https://drive.google.com/uc?export=download&id=1Xta4RnWAq0AJQNZ9fMHIfzop-5nOiXHE"
+  },
+  {
+   "path": "mods/create-gunsmithing-1.21.1-1.4.9.jar",
+   "sha1": "b93931be985419f5ac021116e8fd166ce62e92de",
+   "size": 1819221,
+   "url": "https://drive.google.com/uc?export=download&id=16jZA4mTAmd2zxTIEyX7_F_T-2hdf6kWE"
+  },
+  {
+   "path": "mods/create_connected-1.3.3-mc1.21.1.jar",
+   "sha1": "96ae45fa44cd7028a31b9613cb672009e811b145",
+   "size": 6786783,
+   "url": "https://drive.google.com/uc?export=download&id=1bBVtZEopv9qKzsACFQCJbSwOTk5seRzp"
+  },
+  {
+   "path": "mods/create_copper_and_zinc-2.0.0-neoforge-1.21.1.jar",
+   "sha1": "de1f363ef0ec8aeb6a9dedc1f3d8b3e224400895",
+   "size": 98709,
+   "url": "https://drive.google.com/uc?export=download&id=1z5RNBj1aO7N_4524LBpFtkYBBFPT-aWo"
+  },
+  {
+   "path": "mods/create_radar-0.4.9.4-1.21.1.jar",
+   "sha1": "9726fced4bf86c9e2c0ea09b35bc39ed3ac007b6",
+   "size": 2990812,
+   "url": "https://drive.google.com/uc?export=download&id=1DtP9jvQxNMGVQ_GtHUbEunlVfv0HFIX8"
+  },
+  {
+   "path": "mods/create_ultimate_factory-2.2.4-neoforge-1.21.1.jar",
+   "sha1": "ed0ff71df9bfe3b66b97c51a2834031084300a65",
+   "size": 235239,
+   "url": "https://drive.google.com/uc?export=download&id=1dvm9MkeX6AkPSv80Ot8wQDIs87wFZIBA"
+  },
+  {
+   "path": "mods/createaddition-1.7.2.jar",
+   "sha1": "8e7158d3144b1ee97e58092fe006675b0e09f6d8",
+   "size": 1772844,
+   "url": "https://drive.google.com/uc?export=download&id=1VVd0IDqSmIfDd6O1AoJWuBkt1P8csjLP"
+  },
+  {
+   "path": "mods/createbigcannons-5.11.7+mc.1.21.1.jar",
+   "sha1": "c90ee0b2142e2c58d233e150cb3a24c7cb07eb2d",
+   "size": 3771506,
+   "url": "https://drive.google.com/uc?export=download&id=1hhteHsKd2no6pGhvW4o_9_PWWccKbnE6"
+  },
+  {
+   "path": "mods/createdeco-2.1.3.jar",
+   "sha1": "93d9eff58b46c6953e907d071e6be4e3ce07be38",
+   "size": 3328498,
+   "url": "https://drive.google.com/uc?export=download&id=1ZoesuXcIB4qHf32WqKZfrLJC40BuuODz"
+  },
+  {
+   "path": "mods/CreateDragonsPlus-1.11.9.jar",
+   "sha1": "67ffcb61207a7dbc6b1e70f0473ddbacb19d44eb",
+   "size": 1085674,
+   "url": "https://drive.google.com/uc?export=download&id=1gmVNBx0RJUMC9Xy81b45ynhFmnPc887w"
+  },
+  {
+   "path": "mods/createfood-neoforge-1.21.1-3.0.0.jar",
+   "sha1": "8cb5a2bf84c7ce28e0ca5815785da35d23fd6569",
+   "size": 11968172,
+   "url": "https://drive.google.com/uc?export=download&id=1DgiDbu7n69FJFkpIpD92ofyrCS2TrUx2"
+  },
+  {
+   "path": "mods/CreateGunpowder-1.0.3+1.21.1-neoforge.jar",
+   "sha1": "c64ed9e9747a2e83e92a77e6742111914e9d8c12",
+   "size": 241671,
+   "url": "https://drive.google.com/uc?export=download&id=1Zg53wMaDbD94FKitCTOVAR_SZlmZSc_-"
+  },
+  {
+   "path": "mods/createnuclear-2.0.0-neoforge.jar",
+   "sha1": "1e635e4d1d4f636d3f07f17f4fe178e567de128c",
+   "size": 8833166,
+   "url": "https://drive.google.com/uc?export=download&id=1ned9P-k5Z9q3oqQ-gUeHF8C0aOqMu9gc"
+  },
+  {
+   "path": "mods/createoreexcavation-1.21-1.6.8.jar",
+   "sha1": "9a76b86ec7470d4bd7332f22d6e50a3693098c10",
+   "size": 476990,
+   "url": "https://drive.google.com/uc?export=download&id=12MYbOcfT-6IXuXLZ9f28bwfKgUYm85ej"
+  },
+  {
+   "path": "mods/createornithopterglider-1.2.0-1.21.1.jar",
+   "sha1": "c966977d7df7ceaca24b644ee610e907d6bdd5c1",
+   "size": 732792,
+   "url": "https://drive.google.com/uc?export=download&id=1r5zMkkXr8i7ED60om_RHIkHkpc8nsS2s"
+  },
+  {
+   "path": "mods/createtreadmill-1.17.jar",
+   "sha1": "084380385ef9f99d376157d645fb5d80a2ef59d7",
+   "size": 490239,
+   "url": "https://drive.google.com/uc?export=download&id=1GUvxpqBZ3jdcjEeCaey2j0wnt-L3Qyn6"
+  },
+  {
+   "path": "mods/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
+   "sha1": "35b17e95b2b65930116ccc83e0cc358ac1bfcf9e",
+   "size": 220193,
+   "url": "https://drive.google.com/uc?export=download&id=1RbVa6TfsnyeKDp9tqhtatFBq6IBMjhij"
+  },
+  {
+   "path": "mods/ebe-0.1.6.jar",
+   "sha1": "9c14e7e7b4b1c2a0f985b2448066faeb010dcd88",
+   "size": 5120990,
+   "url": "https://drive.google.com/uc?export=download&id=1Hu-lPcfk6al35Y4LamO1NjjK1aOK17i_"
+  },
+  {
+   "path": "mods/entity_model_features-3.3.12-1.21-neoforge.jar",
+   "sha1": "e9a163b77243cdfcb0ad3d698dc48a60cb8710e9",
+   "size": 656382,
+   "url": "https://drive.google.com/uc?export=download&id=1ckV4p28CztHrF6SIWMzD0Kkh9t5Id5jk"
+  },
+  {
+   "path": "mods/entity_texture_features-7.2.6-1.21-neoforge.jar",
+   "sha1": "1a77ddb156daa4125c205424f05f0fa861517d9c",
+   "size": 807089,
+   "url": "https://drive.google.com/uc?export=download&id=1ree-ZUywg39UZPQrBfr9sTNrXK-_arXC"
+  },
+  {
+   "path": "mods/fancymenu_neoforge_3.9.14_MC_1.21.1.jar",
+   "sha1": "cafbef98afb4f60adea426b950c5452655040c40",
+   "size": 25922080,
+   "url": "https://drive.google.com/uc?export=download&id=1qNmQMtvOUs2B6QapOLDULriqu8TSxoNb"
+  },
+  {
+   "path": "mods/FarmersDelight-1.21.1-1.3.4.jar",
+   "sha1": "27675ddfcb8cc37e6ea1ab6c15051c7949d94657",
+   "size": 3160490,
+   "url": "https://drive.google.com/uc?export=download&id=14mb1QMnr463dY4va5B5qpmUJG7J_0IR7"
+  },
+  {
+   "path": "mods/ferritecore-7.0.3-neoforge.jar",
+   "sha1": "9563692efb708b6b568df27a01ec52f6311928ef",
+   "size": 121559,
+   "url": "https://drive.google.com/uc?export=download&id=17FXsQhJdYlQDx1DSuEKcCbLJktJvb-AB"
+  },
+  {
+   "path": "mods/flerovium-neoforge-1.21.1-1.1.2-all.jar",
+   "sha1": "31491e08947da57d4af6c48e8d3237cc6d4009c1",
+   "size": 182579,
+   "url": "https://drive.google.com/uc?export=download&id=1E20C5urpg3uj07l1-oXlTvRV5LXK1cnZ"
+  },
+  {
+   "path": "mods/fusion-1.3.16-neoforge-mc1.21.1.jar",
+   "sha1": "c3cd7c2718583aa5a12e8502c6b92e050bad0c19",
+   "size": 947335,
+   "url": "https://drive.google.com/uc?export=download&id=1r90gjEOcPmMg2yr5Ms8T5r5bC9mmI1ka"
+  },
+  {
+   "path": "mods/geckolib-neoforge-1.21.1-4.9.3.jar",
+   "sha1": "5cfe835472a5c5457ae9ac192d9d7b317454d5ac",
+   "size": 634531,
+   "url": "https://drive.google.com/uc?export=download&id=1NQb_JNoVoWqzGgQSns4HG1gKezcuteNy"
+  },
+  {
+   "path": "mods/GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
+   "sha1": "e3d4bb80a06f619be989ab529d0cd4e33e076943",
+   "size": 90717,
+   "url": "https://drive.google.com/uc?export=download&id=1OdWka5meDL0qng2TumEtsP-UQkT-qIZx"
+  },
+  {
+   "path": "mods/GnKinetics-1.21.1-1.0m.jar",
+   "sha1": "15cc60c8864ac8b5329723a55a97a548980611de",
+   "size": 560814
+  },
+  {
+   "path": "mods/gravestone-neoforge-1.21.1-1.0.40.jar",
+   "sha1": "97230b93af34ac6581ed36b0cc98f6b16b06c04e",
+   "size": 322082,
+   "url": "https://drive.google.com/uc?export=download&id=1g42Nyq7CwnzvEePCkMw0rN8OI1GgxjZE"
+  },
+  {
+   "path": "mods/holdmyitems-1.21.1-NeoForge-1.0.4.jar",
+   "sha1": "d2576a6b7dec9120e07f745773bec5c11cfdcf64",
+   "size": 35771,
+   "url": "https://drive.google.com/uc?export=download&id=154WmDQLz0uqvHFf_uC6luda5lx0ZtmNP"
+  },
+  {
+   "path": "mods/Iceberg-1.21.1-neoforge-1.3.2.jar",
+   "sha1": "f6014d198be9503573cd9cb41cc789d282768ad8",
+   "size": 213853,
+   "url": "https://drive.google.com/uc?export=download&id=1ECmVvAVmsGR0K-dLPXytoAGhJwvZpiEp"
+  },
+  {
+   "path": "mods/ImmediatelyFast-NeoForge-1.6.15+1.21.1.jar",
+   "sha1": "f991166f7c82b493481c876e3c83c9fac4159671",
+   "size": 368896,
+   "url": "https://drive.google.com/uc?export=download&id=1iVmp4GfnZP3lVBRfk7Ik_dTHAaHfiAGk"
+  },
+  {
+   "path": "mods/interiors-1.21.1-neoforge-0.6.1.jar",
+   "sha1": "a558777ef4510da2f4d32ca3da6ac7384c9a9940",
+   "size": 486912,
+   "url": "https://drive.google.com/uc?export=download&id=1dlKfhSO02qu7Tim1ky_Tfte6zHrnkccb"
+  },
+  {
+   "path": "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+   "sha1": "1bd129cf7bce65d6b1c0543045f0620c98a0f885",
+   "size": 2540723,
+   "url": "https://drive.google.com/uc?export=download&id=1eW_sZTmdAcokt3b0_UjvLoFt9cENClRD"
+  },
+  {
+   "path": "mods/jei-1.21.1-neoforge-19.64.0.455.jar",
+   "sha1": "f6d6fc08d54c40752926b570a2220471e8c45c1a",
+   "size": 2375741,
+   "url": "https://drive.google.com/uc?export=download&id=1g2rMJOG0S5oM1DpGiClI5a7hVGIFYc8S"
+  },
+  {
+   "path": "mods/jei-1.21.1-neoforge-19.69.0.456.jar",
+   "sha1": "a5d3f2fcd38d27fcfd0b68034693ad043c00e5a2",
+   "size": 7350892,
+   "url": "https://drive.google.com/uc?export=download&id=1FkvuWmByPC7T0dT-KWw3Hy0u9JinrBCn"
+  },
+  {
+   "path": "mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
+   "sha1": "97771eb287d5ac7fe667d1df9493d5e54c8ca1fa",
+   "size": 618842,
+   "url": "https://drive.google.com/uc?export=download&id=1Pt1vVPRTK2ou9t4Sft7a2nAvRVbOd3D5"
+  },
+  {
+   "path": "mods/kotlinforforge-5.12.0-all.jar",
+   "sha1": "d10d062caf1aad9aec82d7852f2fee1781735c1f",
+   "size": 7279264,
+   "url": "https://drive.google.com/uc?export=download&id=19wHvrSVZk8F4-TO8UNLUeVkTTfBhWmwg"
+  },
+  {
+   "path": "mods/ldlib2-neoforge-1.21.1-2.2.42-all.jar",
+   "sha1": "42fd60ad891e07b7534f43d9ef2b1beef6a81042",
+   "size": 7617480,
+   "url": "https://drive.google.com/uc?export=download&id=1z5kszalgnRRqNGBof-bE0AJarhuJVBvu"
+  },
+  {
+   "path": "mods/melody_neoforge_1.0.10_MC_1.21.jar",
+   "sha1": "e83052a92c4ca0016bcfe7f0207273983dc84698",
+   "size": 36096,
+   "url": "https://drive.google.com/uc?export=download&id=1sKLMqqsTJpdIngO785-8RtVW8ypekaUm"
+  },
+  {
+   "path": "mods/Mod Menu (NeoForge Edition) 1.21.1-1.0.2.jar",
+   "sha1": "075a0d5f30d1228f998e50c79e703bbd3037a836",
+   "size": 933248
+  },
+  {
+   "path": "mods/modelfix-1.21-1.10.jar",
+   "sha1": "9608b1bff92e075ad8c2feb07f7ef095f6887117",
+   "size": 47035,
+   "url": "https://drive.google.com/uc?export=download&id=1cxf-5_7jv42LWcEkm_pOS8eQyWSvWTHm"
+  },
+  {
+   "path": "mods/modernfix-neoforge-5.27.26+mc1.21.1.jar",
+   "sha1": "69d468b70e53f6a014c778a81116a41a38fbab33",
+   "size": 611043,
+   "url": "https://drive.google.com/uc?export=download&id=1IS3TvlAuytG-74GT7c5jF0jeMJ0jRNr_"
+  },
+  {
+   "path": "mods/moreculling-neoforge-1.21.1-1.0.10.jar",
+   "sha1": "7e2d906031fdba883649eef6ef48a4dbdbb0f6cf",
+   "size": 335699,
+   "url": "https://drive.google.com/uc?export=download&id=1rWm-0i9xNic0T0Fi8mpPQO3HbyQfWcFb"
+  },
+  {
+   "path": "mods/no-telemetry-1.10.0.jar",
+   "sha1": "3d52342f5825d01dda6661ef7116cdbacbe49746",
+   "size": 96316,
+   "url": "https://drive.google.com/uc?export=download&id=10JUGanys913UubKaFWLZ3JDBuYQrnOlT"
+  },
+  {
+   "path": "mods/notenoughanimations-neoforge-1.12.6-mc1.21.1.jar",
+   "sha1": "2098ae4965ebefb2dc8d5aec42a7d5282414fddc",
+   "size": 1866035,
+   "url": "https://drive.google.com/uc?export=download&id=1U1chgD2rGaQkAXYSrBRKekylcY-OCpTZ"
+  },
+  {
+   "path": "mods/ntgl-1.21.1-3.2.0.jar",
+   "sha1": "706a7b91a8f46c4773d01f7a0137b6aaf271e33b",
+   "size": 3965533,
+   "url": "https://drive.google.com/uc?export=download&id=1dP8rPdVXxGfQ8wsk0_XyorBnR_4PDh-x"
+  },
+  {
+   "path": "mods/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
+   "sha1": "a8bb6e25807682e72c23bf4065f3cd5f6373ece3",
+   "size": 46623,
+   "url": "https://drive.google.com/uc?export=download&id=1yksTlYyVh0nciLc6F4np5zpYbkL0ioOu"
+  },
+  {
+   "path": "mods/particlerain-4.0.2+1.21.1-neoforge (1).jar",
+   "sha1": "444c6f221e57cca8e433702b18c4643faa82545a",
+   "size": 623257
+  },
+  {
+   "path": "mods/powergrid-mc1.21.1-0.6.0.1.jar",
+   "sha1": "68509bfa4863318a2d188ed232072c76465b2b13",
+   "size": 7905734,
+   "url": "https://drive.google.com/uc?export=download&id=1gsKjtUuoszCKh5i6IvVaopFnQ6-HCirh"
+  },
+  {
+   "path": "mods/puzzleslib-v21.1.64-mc1.21.1+neoforge.jar",
+   "sha1": "8562ac65d4f2a55365d4522934fb0e00cd3d3ec3",
+   "size": 1451067,
+   "url": "https://drive.google.com/uc?export=download&id=1aIHhU6KPCvSrbe3lqTwthDqnonsEi-SL"
+  },
+  {
+   "path": "mods/rechiseled-1.2.6-neoforge-mc1.21.jar",
+   "sha1": "a7ca83d2f99520233bfa9ce769a157fe05201639",
+   "size": 11526036,
+   "url": "https://drive.google.com/uc?export=download&id=177iiRVUKs3QTimuXOtKmmbfYcnWFkMPb"
+  },
+  {
+   "path": "mods/rechiseledcreate-1.1.1-neoforge-mc1.21.jar",
+   "sha1": "6f7e53f39eb477d7cee8e21af215cd3db698deda",
+   "size": 983177,
+   "url": "https://drive.google.com/uc?export=download&id=1_KbL829IGeU6vd1_Ea2CHBIziELo59KS"
+  },
+  {
+   "path": "mods/reeses-sodium-options-neoforge-2.2.4+mc1.21.1.jar",
+   "sha1": "e9e6d101b31acb51539141937ad5b069ff2ccc4d",
+   "size": 258894,
+   "url": "https://drive.google.com/uc?export=download&id=1Cr0FtBy9H8vqVanpiO7JXwMzm2PTR-R8"
+  },
+  {
+   "path": "mods/Resourcify (1.21.1-neoforge)-1.8.7.jar",
+   "sha1": "b21851bb62eeb69e961b5cd8e7006d1ab85f0d2b",
+   "size": 2946897
+  },
+  {
+   "path": "mods/ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar",
+   "sha1": "ec2e4996f8bee8714173e603e379fef8a6901765",
+   "size": 76369,
+   "url": "https://drive.google.com/uc?export=download&id=1TJn4dGJBs0dprtaFXRG6-mamYpS7PNip"
+  },
+  {
+   "path": "mods/rrls-5.0.11+mc1.21.1-forge.jar",
+   "sha1": "acc4b6deca5c9cc87c33f114daf5d8f75081ed85",
+   "size": 180458,
+   "url": "https://drive.google.com/uc?export=download&id=1zydpTQ_xraaNJDNg_6OypGQUmnIord-Z"
+  },
+  {
+   "path": "mods/sable-neoforge-1.21.1-2.0.6.jar",
+   "sha1": "cf46f7e8c1511f170abcdbee739944f0540549bf",
+   "size": 12986135,
+   "url": "https://drive.google.com/uc?export=download&id=1kbUliolKYs5KloNiLuCsfqGKX0ba1wxX"
+  },
+  {
+   "path": "mods/sable-schematics-0.2.44-direct-dbs-hook.jar",
+   "sha1": "a44cafb56959f450c357a8b66a7dc4bf19b75022",
+   "size": 499453,
+   "url": "https://drive.google.com/uc?export=download&id=1VXEqpGrvV6kzIl5aItTi4XiOsW30-IUo"
+  },
+  {
+   "path": "mods/SereneSeasons-neoforge-1.21.1-10.1.0.9 (1).jar",
+   "sha1": "6b98eb4e64344bb8aba424187ed08bf04e59dccf",
+   "size": 163020
+  },
+  {
+   "path": "mods/skinlayers3d-neoforge-1.11.4-mc1.21.1.jar",
+   "sha1": "d4864fac231ff3d360e08a82f06553c3f76de8a6",
+   "size": 1905514,
+   "url": "https://drive.google.com/uc?export=download&id=1gV4mHF_UrZmBgbjo9nj7Bs0e7C9oVPqB"
+  },
+  {
+   "path": "mods/sliceanddice-4.3.4-neoforge.jar",
+   "sha1": "bfcb12d13465caf6743f200fbd755b72705011e4",
+   "size": 1356389,
+   "url": "https://drive.google.com/uc?export=download&id=1ezYRwGS40UK2dC-o9ihX_NFTnHcAZdhs"
+  },
+  {
+   "path": "mods/smoothgui-neoforge-2.1.0+mc1.21.jar",
+   "sha1": "057986be2462471a855c3216f06e53c5a282448c",
+   "size": 730710,
+   "url": "https://drive.google.com/uc?export=download&id=16N3GUQgw9BUi65cZ_K5nERx1f7WzpwcL"
+  },
+  {
+   "path": "mods/smoothswapping-0.9.3.2-1.21.1-neoforge.jar",
+   "sha1": "00338f16b360d6b24b53fc8f92b76256729aee75",
+   "size": 62900,
+   "url": "https://drive.google.com/uc?export=download&id=15VIq4wrJJNh7IjoTiKzzkP__QXEdWIJk"
+  },
+  {
+   "path": "mods/sodium-neoforge-0.8.13+mc1.21.1.jar",
+   "sha1": "1757289be21ed18db5b0d90703fa3db1b2de5693",
+   "size": 1292934,
+   "url": "https://drive.google.com/uc?export=download&id=11Cxg04KGXLpLCJFPFRFGDA212QxYKw-w"
+  },
+  {
+   "path": "mods/sodium-shadowy-path-blocks-neoforge-4.1.0.jar",
+   "sha1": "315891dcf8459a53fe263d985073bef619c360d0",
+   "size": 79200,
+   "url": "https://drive.google.com/uc?export=download&id=1au1b1EZd8Qp6eTzYOQoSXZXtijCg1X6Z"
+  },
+  {
+   "path": "mods/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
+   "sha1": "02e9bc7ba28147cdf2d608ecf4f2c1eab34b4652",
+   "size": 299353,
+   "url": "https://drive.google.com/uc?export=download&id=1g6iSladTBX0_5pcifWYvdxxWgXjtlfSr"
+  },
+  {
+   "path": "mods/sound-physics-remastered-neoforge-1.21.1-1.5.2.jar",
+   "sha1": "f1903e867a71cbdc3078caf957372b9959482cfb",
+   "size": 204230,
+   "url": "https://drive.google.com/uc?export=download&id=1XVId8f6vY2aqC0AwGiK_4ljWDUK1oaNq"
+  },
+  {
+   "path": "mods/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+   "sha1": "07452242e389975e8a88b97066f4bae6a4ebe574",
+   "size": 207514,
+   "url": "https://drive.google.com/uc?export=download&id=1JeRUrAbN07_DvyFFAhkmuuOTgF9eNO7H"
+  },
+  {
+   "path": "mods/supermartijn642corelib-1.1.25-neoforge-mc1.21.jar",
+   "sha1": "60d45feac8cd2f0b497b013c7fd501b3ae8b6f6d",
+   "size": 562683,
+   "url": "https://drive.google.com/uc?export=download&id=19REHl-c7WyfYOH3HgtOqYiGzVChA8qth"
+  },
+  {
+   "path": "mods/tfmg-1.2.0.jar",
+   "sha1": "b520f3687f60a69eb265ff5b9a16759b9e124103",
+   "size": 4924243,
+   "url": "https://drive.google.com/uc?export=download&id=16OLu5n2rBY0jyA4W5eYBkrkGfgYFQryI"
+  },
+  {
+   "path": "mods/TotemFactory-1.1.2+mc1.21.1-NeoForge.jar",
+   "sha1": "0a79d87477f50a2db17589fb7720c24bb1dff1a8",
+   "size": 281151,
+   "url": "https://drive.google.com/uc?export=download&id=1ooy1athsD2ndQCrimx0_5HYEHCi0-sov"
+  },
+  {
+   "path": "mods/visuality-forge-3.0.0.jar",
+   "sha1": "9786f023733a302b582b7349336e1ab47e93823e",
+   "size": 132898,
+   "url": "https://drive.google.com/uc?export=download&id=13ilyWzxEF2j5Lcl3ETVHVEQrN6QDPM82"
+  },
+  {
+   "path": "mods/voicechat-neoforge-1.21.1-2.6.25.jar",
+   "sha1": "8546b80b9bd2352334d4719953fde61b90c26f5f",
+   "size": 4935905,
+   "url": "https://drive.google.com/uc?export=download&id=1yKE2uimTV-sICQwKbURuZfz_JEKg7LJi"
+  },
+  {
+   "path": "mods/wthit-1.21.1-neo-12.10.2.jar",
+   "sha1": "ac19d46e1dbd77bd2d6ac8dee0d15198b05f6a7e",
+   "size": 863316,
+   "url": "https://drive.google.com/uc?export=download&id=16SjvH0LPZZTzRM08paHgd8Ku05BFbaCd"
+  },
+  {
+   "path": "mods/xaerominimap-neoforge-1.21.1-26.6.0.jar",
+   "sha1": "551e8e2aa3498b506cc949a74606cdc0380e5e00",
+   "size": 2186351,
+   "url": "https://drive.google.com/uc?export=download&id=1uUlPl0GNZtOYB33a8zQyPk617TuSjxQs"
+  },
+  {
+   "path": "mods/xaeroworldmap-neoforge-1.21.1-1.47.0.jar",
+   "sha1": "2936c9cb9dfbdab145fe6f1e8ae2c68915246a5f",
+   "size": 1427078,
+   "url": "https://drive.google.com/uc?export=download&id=1tmnzddi3GGvPEuUJgxkV0cCM5ZHhAG5d"
+  },
+  {
+   "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+   "sha1": "fe270c9f6e0a8142cf316944087f5109cef08bbb",
+   "size": 1118651,
+   "url": "https://drive.google.com/uc?export=download&id=14h0IK2DBDQ1r5llNseTlJpuf6y__scYB"
+  },
+  {
+   "path": "mods/YungsApi-1.21.1-NeoForge-5.1.9.jar",
+   "sha1": "2c4b740c8ad27bbcb2a21b85b64f011b809aed91",
+   "size": 413763,
+   "url": "https://drive.google.com/uc?export=download&id=11WfEpFhwWsY2Rsvuy5_jXzr1fWRousch"
+  }
+ ],
+ "loader_version": "21.1.80",
+ "server": {
+  "host": "moscow-5.cloudblaze.org",
+  "port": 20414
+ }
+}
